@@ -11,8 +11,8 @@
 - `ConnectionPool`：按配置维护连接
 - `ClassPathAnnotationApplicationContext` / `ClassPathXMLApplicationContext`：从注解或 XML 读映射
 
-源码在 `easyDatabaseUtil/src`，包名 `com.mec.dataBase`。目录是当时的 Eclipse 工程，MySQL 驱动在 `src/libs`。连接信息看 `dataBaseCfg.properties`。
+源码在 `mini-jdbc-mapper/src`，包名 `com.mec.dataBase`。目录是当时的 Eclipse 工程，MySQL 驱动在 `src/libs`。连接信息看 `dataBaseCfg.properties`。
 
 ## 状态
 
-学习代码，源码按最初上传的样子保留。仓库曾用名 `easyDatabaseUtil`，旧地址会重定向到这里。
+学习代码，Java 包名和实现按最初上传的样子保留。仓库曾用名 `easyDatabaseUtil`，旧地址会重定向到这里。
